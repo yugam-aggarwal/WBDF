@@ -1,7 +1,3 @@
-# WBDF (Wide–Broad–Deep–Factorized) — PyTorch implementation
-# Functionally equivalent to the Keras version: each component outputs per-class
-# probabilities; fusion is Attention: Dense -> ReLU -> Softmax.
-
 from __future__ import annotations
 
 from typing import Dict, Iterable, List, Sequence, Tuple, Optional
